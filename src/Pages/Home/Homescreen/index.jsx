@@ -1,9 +1,9 @@
-import HeroSection from "../HeroSection";
+import ProfileSection from "../ProfileSection";
 
-export default function Home (){
-    return (
-        <>
-        <HeroSection/>
-        </>
-    )
+export default function Home() {
+  return (
+    <>
+      <ProfileSection />
+    </>
+  );
 }
