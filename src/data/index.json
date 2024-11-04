@@ -73,5 +73,29 @@
       "author_name": "Kathy Murphy",
       "author_designation": "Mc's"
     }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "src/img/placeholder-image-2.png",
+      "title": "Ahuse",
+      "description": "uspend various elements in eros as part of a structured arrangement.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "uspend various elements in eros as part of a structured arrangement.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rent",
+      "description": "uspend various elements in eros as part of a structured arrangement",
+      "link": "View In Github"
+    }
   ]
+  
 }
