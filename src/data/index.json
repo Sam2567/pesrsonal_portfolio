@@ -101,24 +101,27 @@
   "testimonial": [
     {
       "id": "1",
-      "src": "src/img/placeholder-image-2.png",
-      "title": "Ahuse",
+      "count": "5",
+      "src": "src/img/avatar-image.png",
       "description": "uspend various elements in eros as part of a structured arrangement.",
-      "link": "View In Github"
+      "author_name": "Dan Russel",
+      "author_designation": "Starbucks"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
+      "count": "5",
+      "src": "src/img/avatar-image-1.png",
       "description": "uspend various elements in eros as part of a structured arrangement.",
-      "link": "View In Github"
+      "author_name": "Chris Waston",
+      "author_description": "Louis Vuitton"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rent",
-      "description": "uspend various elements in eros as part of a structured arrangement",
-      "link": "View In Github"
+      "count": "5",
+      "src": "src/img/avatar-image-2.png",
+      "description": "uspend various elements in eros as part of a structured arrangement.",
+      "author_name": "Kathy Murphy",
+      "author_description": "KFC"
     }
   ]
 }
